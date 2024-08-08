@@ -7,7 +7,7 @@ The Multi-PDF's Chat Agent is a Streamlit-based web application designed to faci
 
 ## 📢Demo App with Streamlit Cloud (Visualize only)
 
-[Launch App On Streamlit](https://multi-pdfschatappai-agent.streamlit.app/)
+[Launch App On Streamlit]([https://instantpdfchat.streamlit.app/])
 
 ## 💻 Demo:
 ![Demo 1: Chatbot Output](img/LLMframework.jpg)
@@ -63,7 +63,7 @@ The application follows these steps to provide responses to your questions:
 
 Clone the repository:
 
-`git clone https://github.com/GURPREETKAURJETHRA/Multi-PDFs_ChatApp_AI-Agent.git`
+`git clone https://github.com/kiruba11k/Multi-PDF-Chatbot.git`
 
 Install the required Python packages:
 
@@ -80,7 +80,7 @@ Run the Streamlit app:
 ---
 ## 💡Usage
 
-To use the Multi-PDF-s 📚ChatApp AI Agent 🤖, U can have glimpse of look by clicking on this link : [Launch App On Streamlit](https://multi-pdfschatappai-agent.streamlit.app/). To run app, fork app and follow the below steps to start using it. Use the sidebar to upload PDF files and train the chatbot. Once trained, you can have conversations with the chatbot by entering questions in the text input field.
+To use the Multi-PDF-s 📚ChatApp AI Agent 🤖, U can have glimpse of look by clicking on this link : [Launch App On Streamlit](https://instantpdfchat.streamlit.app/)). To run app, fork app and follow the below steps to start using it. Use the sidebar to upload PDF files and train the chatbot. Once trained, you can have conversations with the chatbot by entering questions in the text input field.
 
 In case You want to run & implement project on your system then follow these steps:
 
@@ -98,4 +98,4 @@ In case You want to run & implement project on your system then follow these ste
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
 
 ---
-
+## CREDITS: GURPREET KAUR JETHRA
